@@ -21,7 +21,8 @@ This is a simple RESTful API for a blogging platform that allows users to create
    cd server
    npm install
 
-## 3. Configure environment variables by creating a .env file if you want (NOTE:I have included my .env file in the repository for your convenience & my DB have some sample data with which I have tested the app)
+3. Configure environment variables by creating a .env file if you want
+## (NOTE:I have included my .env file in the repository for your convenience & my DB have some sample data with which I have tested the app)
 
 Copy the following code and assign Mongo DB URI,PASSWORD,PORT number,JWT_SECRET of your choiceif you are creating a new .env file:
 
