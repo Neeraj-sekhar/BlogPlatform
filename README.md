@@ -14,7 +14,7 @@ This is a simple RESTful API for a blogging platform that allows users to create
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Neeraj-sekhar/BlogPlatform
 
 2. Install dependencies:
    
